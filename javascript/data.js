@@ -7,7 +7,7 @@ const steak = [
   "cook steak for 30-60 seconds per side using a spoon to baste with butter",
   "rest for 10 minutes",
   "enjoy",
-];
+]
 
 const mashedPotatoes = [
   "boil water",
@@ -15,7 +15,7 @@ const mashedPotatoes = [
   "pour in water",
   "mix",
   "enjoy",
-];
+]
 
 const brusselsSprouts = [
   'wash brussels sprouts',
@@ -26,7 +26,7 @@ const brusselsSprouts = [
   'roast in the oven for 20 minutes',
   'place back in bowl and add salt and pepper',
   'enjoy'
-];
+]
 
 const broccoli = [
   'wash broccoli in cold water',
@@ -36,4 +36,4 @@ const broccoli = [
   'cook for 3 to 4 minutes, or until tender',
   'drain, then leave to steam dry for a minute',
   'enjoy'
-];
+]
